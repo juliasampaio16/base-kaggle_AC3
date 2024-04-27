@@ -1,0 +1,1001 @@
+﻿;genero;nivel_educacao_pais;almoço;preparacao_teste;nota_matematica;nota_leitura;nota_redacao;media;status
+0;female;bachelor's degree;standard;none;72;72;74;72,67;lista de espera
+1;female;some college;standard;completed;69;90;88;82,33;aprovado
+2;female;master's degree;standard;none;90;95;93;92,67;aprovado
+3;male;associate's degree;free/reduced;none;47;57;44;49,33;reprovado
+4;male;some college;standard;none;76;78;75;76,33;lista de espera
+5;female;associate's degree;standard;none;71;83;78;77,33;lista de espera
+6;female;some college;standard;completed;88;95;92;91,67;aprovado
+7;male;some college;free/reduced;none;40;43;39;40,67;reprovado
+8;male;high school;free/reduced;completed;64;64;67;65;lista de espera
+9;female;high school;free/reduced;none;38;60;50;49,33;reprovado
+10;male;associate's degree;standard;none;58;54;52;54,67;reprovado
+11;male;associate's degree;standard;none;40;52;43;45;reprovado
+12;female;high school;standard;none;65;81;73;73;lista de espera
+13;male;some college;standard;completed;78;72;70;73,33;lista de espera
+14;female;master's degree;standard;none;50;53;58;53,67;reprovado
+15;female;some high school;standard;none;69;75;78;74;lista de espera
+16;male;high school;standard;none;88;89;86;87,67;aprovado
+17;female;some high school;free/reduced;none;18;32;28;26;reprovado
+18;male;master's degree;free/reduced;completed;46;42;46;44,67;reprovado
+19;female;associate's degree;free/reduced;none;54;58;61;57,67;reprovado
+20;male;high school;standard;none;66;69;63;66;lista de espera
+21;female;some college;free/reduced;completed;65;75;70;70;lista de espera
+22;male;some college;standard;none;44;54;53;50,33;reprovado
+23;female;some high school;standard;none;69;73;73;71,67;lista de espera
+24;male;bachelor's degree;free/reduced;completed;74;71;80;75;lista de espera
+25;male;master's degree;free/reduced;none;73;74;72;73;lista de espera
+26;male;some college;standard;none;69;54;55;59,33;reprovado
+27;female;bachelor's degree;standard;none;67;69;75;70,33;lista de espera
+28;male;high school;standard;none;70;70;65;68,33;lista de espera
+29;female;master's degree;standard;none;62;70;75;69;lista de espera
+30;female;some college;standard;none;69;74;74;72,33;lista de espera
+31;female;some college;standard;none;63;65;61;63;lista de espera
+32;female;master's degree;free/reduced;none;56;72;65;64,33;lista de espera
+33;male;some college;standard;none;40;42;38;40;reprovado
+34;male;some college;standard;none;97;87;82;88,67;aprovado
+35;male;associate's degree;standard;completed;81;81;79;80,33;aprovado
+36;female;associate's degree;standard;none;74;81;83;79,33;lista de espera
+37;female;some high school;free/reduced;none;50;64;59;57,67;reprovado
+38;female;associate's degree;free/reduced;completed;75;90;88;84,33;aprovado
+39;male;associate's degree;free/reduced;none;57;56;57;56,67;reprovado
+40;male;associate's degree;free/reduced;none;55;61;54;56,67;reprovado
+41;female;associate's degree;standard;none;58;73;68;66,33;lista de espera
+42;female;associate's degree;standard;none;53;58;65;58,67;reprovado
+43;male;some college;free/reduced;completed;59;65;66;63,33;lista de espera
+44;female;associate's degree;free/reduced;none;50;56;54;53,33;reprovado
+45;male;associate's degree;standard;none;65;54;57;58,67;reprovado
+46;female;associate's degree;standard;completed;55;65;62;60,67;lista de espera
+47;female;high school;standard;none;66;71;76;71;lista de espera
+48;female;associate's degree;free/reduced;completed;57;74;76;69;lista de espera
+49;male;high school;standard;completed;82;84;82;82,67;aprovado
+50;male;some college;standard;none;53;55;48;52;reprovado
+51;male;associate's degree;free/reduced;completed;77;69;68;71,33;lista de espera
+52;male;some college;standard;none;53;44;42;46,33;reprovado
+53;male;high school;standard;none;88;78;75;80,33;aprovado
+54;female;some high school;free/reduced;completed;71;84;87;80,67;aprovado
+55;female;high school;free/reduced;none;33;41;43;39;reprovado
+56;female;associate's degree;standard;completed;82;85;86;84,33;aprovado
+57;male;associate's degree;standard;none;52;55;49;52;reprovado
+58;male;some college;standard;completed;58;59;58;58,33;reprovado
+59;female;some high school;free/reduced;none;0;17;10;9;reprovado
+60;male;bachelor's degree;free/reduced;completed;79;74;72;75;lista de espera
+61;male;some high school;free/reduced;none;39;39;34;37,33;reprovado
+62;male;associate's degree;free/reduced;none;62;61;55;59,33;reprovado
+63;female;associate's degree;standard;none;69;80;71;73,33;lista de espera
+64;female;some high school;standard;none;59;58;59;58,67;reprovado
+65;male;some high school;standard;none;67;64;61;64;lista de espera
+66;male;some high school;free/reduced;none;45;37;37;39,67;reprovado
+67;female;some college;standard;none;60;72;74;68,67;lista de espera
+68;male;associate's degree;free/reduced;none;61;58;56;58,33;reprovado
+69;female;associate's degree;standard;none;39;64;57;53,33;reprovado
+70;female;some college;free/reduced;completed;58;63;73;64,67;lista de espera
+71;male;some college;standard;completed;63;55;63;60,33;lista de espera
+72;female;associate's degree;free/reduced;none;41;51;48;46,67;reprovado
+73;male;some high school;free/reduced;none;61;57;56;58;reprovado
+74;male;some high school;standard;none;49;49;41;46,33;reprovado
+75;male;associate's degree;free/reduced;none;44;41;38;41;reprovado
+76;male;some high school;standard;none;30;26;22;26;reprovado
+77;male;bachelor's degree;standard;completed;80;78;81;79,67;lista de espera
+78;female;some high school;standard;completed;61;74;72;69;lista de espera
+79;female;master's degree;standard;none;62;68;68;66;lista de espera
+80;female;associate's degree;standard;none;47;49;50;48,67;reprovado
+81;male;high school;free/reduced;none;49;45;45;46,33;reprovado
+82;male;some college;free/reduced;completed;50;47;54;50,33;reprovado
+83;male;associate's degree;standard;none;72;64;63;66,33;lista de espera
+84;male;high school;free/reduced;none;42;39;34;38,33;reprovado
+85;female;some college;standard;none;73;80;82;78,33;lista de espera
+86;female;some college;free/reduced;none;76;83;88;82,33;aprovado
+87;female;associate's degree;standard;none;71;71;74;72;lista de espera
+88;female;some college;standard;none;58;70;67;65;lista de espera
+89;female;some high school;standard;none;73;86;82;80,33;aprovado
+90;female;bachelor's degree;standard;none;65;72;74;70,33;lista de espera
+91;male;high school;free/reduced;none;27;34;36;32,33;reprovado
+92;male;high school;standard;none;71;79;71;73,67;lista de espera
+93;male;associate's degree;free/reduced;completed;43;45;50;46;reprovado
+94;female;some college;standard;none;79;86;92;85,67;aprovado
+95;male;associate's degree;free/reduced;completed;78;81;82;80,33;aprovado
+96;male;some high school;standard;completed;65;66;62;64,33;lista de espera
+97;female;some college;standard;completed;63;72;70;68,33;lista de espera
+98;female;some college;free/reduced;none;58;67;62;62,33;lista de espera
+99;female;bachelor's degree;standard;none;65;67;62;64,67;lista de espera
+100;male;some college;standard;none;79;67;67;71;lista de espera
+101;male;bachelor's degree;standard;completed;68;74;74;72;lista de espera
+102;female;associate's degree;standard;none;85;91;89;88,33;aprovado
+103;male;high school;standard;completed;60;44;47;50,33;reprovado
+104;male;some college;standard;completed;98;86;90;91,33;aprovado
+105;female;some college;standard;none;58;67;72;65,67;lista de espera
+106;female;master's degree;standard;none;87;100;100;95,67;aprovado
+107;male;associate's degree;standard;completed;66;63;64;64,33;lista de espera
+108;female;associate's degree;free/reduced;none;52;76;70;66;lista de espera
+109;female;some high school;standard;none;70;64;72;68,67;lista de espera
+110;female;associate's degree;free/reduced;completed;77;89;98;88;aprovado
+111;male;high school;standard;none;62;55;49;55,33;reprovado
+112;male;associate's degree;standard;none;54;53;47;51,33;reprovado
+113;female;some college;standard;none;51;58;54;54,33;reprovado
+114;female;bachelor's degree;standard;completed;99;100;100;99,67;aprovado
+115;male;high school;standard;none;84;77;74;78,33;lista de espera
+116;female;bachelor's degree;free/reduced;none;75;85;82;80,67;aprovado
+117;female;bachelor's degree;standard;none;78;82;79;79,67;lista de espera
+118;female;some high school;standard;none;51;63;61;58,33;reprovado
+119;female;some college;standard;none;55;69;65;63;lista de espera
+120;female;bachelor's degree;standard;completed;79;92;89;86,67;aprovado
+121;male;associate's degree;standard;completed;91;89;92;90,67;aprovado
+122;female;some college;standard;completed;88;93;93;91,33;aprovado
+123;male;high school;free/reduced;none;63;57;56;58,67;reprovado
+124;male;some college;standard;none;83;80;73;78,67;lista de espera
+125;female;high school;standard;none;87;95;86;89,33;aprovado
+126;male;some high school;standard;none;72;68;67;69;lista de espera
+127;male;some college;standard;completed;65;77;74;72;lista de espera
+128;male;master's degree;standard;none;82;82;74;79,33;lista de espera
+129;female;bachelor's degree;standard;none;51;49;51;50,33;reprovado
+130;male;master's degree;standard;none;89;84;82;85;aprovado
+131;male;some high school;free/reduced;completed;53;37;40;43,33;reprovado
+132;male;some college;free/reduced;completed;87;74;70;77;lista de espera
+133;female;some college;standard;completed;75;81;84;80;reprovado
+134;male;bachelor's degree;free/reduced;completed;74;79;75;76;lista de espera
+135;male;bachelor's degree;standard;none;58;55;48;53,67;reprovado
+136;male;some high school;standard;completed;51;54;41;48,67;reprovado
+137;male;high school;standard;none;70;55;56;60,33;lista de espera
+138;female;associate's degree;standard;none;59;66;67;64;lista de espera
+139;male;some college;standard;completed;71;61;69;67;lista de espera
+140;female;some high school;standard;none;76;72;71;73;lista de espera
+141;female;some college;free/reduced;none;59;62;64;61,67;lista de espera
+142;female;some college;free/reduced;completed;42;55;54;50,33;reprovado
+143;male;high school;standard;none;57;43;47;49;reprovado
+144;male;some college;standard;none;88;73;78;79,67;lista de espera
+145;female;some college;free/reduced;none;22;39;33;31,33;reprovado
+146;male;some high school;standard;none;88;84;75;82,33;aprovado
+147;male;associate's degree;free/reduced;none;73;68;66;69;lista de espera
+148;female;bachelor's degree;standard;completed;68;75;81;74,67;lista de espera
+149;male;associate's degree;free/reduced;completed;100;100;93;97,67;aprovado
+150;male;some high school;standard;completed;62;67;69;66;lista de espera
+151;male;bachelor's degree;standard;none;77;67;68;70,67;lista de espera
+152;female;associate's degree;standard;completed;59;70;66;65;lista de espera
+153;male;bachelor's degree;standard;none;54;49;47;50;reprovado
+154;male;some high school;standard;none;62;67;61;63,33;lista de espera
+155;female;some college;standard;completed;70;89;88;82,33;aprovado
+156;female;high school;free/reduced;completed;66;74;78;72,67;lista de espera
+157;male;some college;free/reduced;none;60;60;60;60;reprovado
+158;female;associate's degree;standard;completed;61;86;87;78;lista de espera
+159;male;associate's degree;free/reduced;none;66;62;64;64;lista de espera
+160;male;associate's degree;free/reduced;completed;82;78;74;78;lista de espera
+161;female;some college;free/reduced;completed;75;88;85;82,67;aprovado
+162;male;master's degree;free/reduced;none;49;53;52;51,33;reprovado
+163;male;high school;standard;none;52;53;49;51,33;reprovado
+164;female;master's degree;standard;none;81;92;91;88;aprovado
+165;female;bachelor's degree;standard;completed;96;100;100;98,67;aprovado
+166;male;high school;free/reduced;completed;53;51;51;51,67;reprovado
+167;female;master's degree;free/reduced;completed;58;76;78;70,67;lista de espera
+168;female;high school;standard;completed;68;83;78;76,33;lista de espera
+169;female;some college;free/reduced;completed;67;75;70;70,67;lista de espera
+170;male;high school;standard;completed;72;73;74;73;lista de espera
+171;male;some high school;standard;none;94;88;78;86,67;aprovado
+172;female;some college;standard;none;79;86;81;82;aprovado
+173;female;associate's degree;standard;none;63;67;70;66,67;lista de espera
+174;female;bachelor's degree;free/reduced;completed;43;51;54;49,33;reprovado
+175;female;master's degree;standard;completed;81;91;87;86,33;aprovado
+176;female;high school;free/reduced;completed;46;54;58;52,67;reprovado
+177;female;associate's degree;standard;completed;71;77;77;75;lista de espera
+178;female;master's degree;free/reduced;completed;52;70;62;61,33;lista de espera
+179;female;some high school;standard;completed;97;100;100;99;aprovado
+180;male;master's degree;free/reduced;completed;62;68;75;68,33;lista de espera
+181;female;some college;free/reduced;none;46;64;66;58,67;reprovado
+182;female;high school;standard;none;50;50;47;49;reprovado
+183;female;associate's degree;standard;none;65;69;70;68;lista de espera
+184;male;some high school;free/reduced;completed;45;52;49;48,67;reprovado
+185;male;associate's degree;free/reduced;completed;65;67;65;65,67;lista de espera
+186;male;high school;standard;none;80;76;65;73,67;lista de espera
+187;male;some high school;standard;completed;62;66;68;65,33;lista de espera
+188;male;some high school;free/reduced;none;48;52;45;48,33;reprovado
+189;female;bachelor's degree;standard;none;77;88;87;84;aprovado
+190;female;associate's degree;standard;none;66;65;69;66,67;lista de espera
+191;male;some college;standard;completed;76;83;79;79,33;lista de espera
+192;female;some high school;standard;none;62;64;66;64;lista de espera
+193;male;some college;standard;completed;77;62;62;67;lista de espera
+194;female;master's degree;standard;completed;69;84;85;79,33;lista de espera
+195;male;associate's degree;standard;none;61;55;52;56;reprovado
+196;male;some high school;free/reduced;completed;59;69;65;64,33;lista de espera
+197;male;high school;free/reduced;none;55;56;51;54;reprovado
+198;female;some college;free/reduced;none;45;53;55;51;reprovado
+199;female;bachelor's degree;free/reduced;none;78;79;76;77,67;lista de espera
+200;female;associate's degree;standard;completed;67;84;86;79;lista de espera
+201;female;some college;free/reduced;none;65;81;77;74,33;lista de espera
+202;male;associate's degree;standard;none;69;77;69;71,67;lista de espera
+203;female;associate's degree;standard;none;57;69;68;64,67;lista de espera
+204;male;some college;standard;none;59;41;42;47,33;reprovado
+205;male;some high school;standard;completed;74;71;78;74,33;lista de espera
+206;male;bachelor's degree;standard;none;82;62;62;68,67;lista de espera
+207;male;high school;standard;completed;81;80;76;79;lista de espera
+208;female;some college;free/reduced;none;74;81;76;77;lista de espera
+209;female;some college;free/reduced;none;58;61;66;61,67;lista de espera
+210;male;some high school;free/reduced;completed;80;79;79;79,33;lista de espera
+211;male;some college;free/reduced;none;35;28;27;30;reprovado
+212;female;high school;free/reduced;none;42;62;60;54,67;reprovado
+213;male;associate's degree;free/reduced;completed;60;51;56;55,67;reprovado
+214;male;high school;standard;completed;87;91;81;86,33;aprovado
+215;male;some high school;standard;completed;84;83;75;80,67;aprovado
+216;female;associate's degree;free/reduced;completed;83;86;88;85,67;aprovado
+217;female;high school;free/reduced;none;34;42;39;38,33;reprovado
+218;male;high school;free/reduced;none;66;77;70;71;lista de espera
+219;male;some high school;standard;completed;61;56;56;57,67;reprovado
+220;female;high school;standard;completed;56;68;74;66;lista de espera
+221;male;associate's degree;standard;none;87;85;73;81,67;aprovado
+222;female;some high school;free/reduced;none;55;65;62;60,67;lista de espera
+223;male;some high school;standard;none;86;80;75;80,33;aprovado
+224;female;associate's degree;standard;completed;52;66;73;63,67;lista de espera
+225;female;master's degree;free/reduced;none;45;56;54;51,67;reprovado
+226;female;some college;standard;none;72;72;71;71,67;lista de espera
+227;male;high school;standard;none;57;50;54;53,67;reprovado
+228;male;some high school;free/reduced;none;68;72;64;68;lista de espera
+229;female;some college;standard;completed;88;95;94;92,33;aprovado
+230;male;some college;standard;none;76;64;66;68,67;lista de espera
+231;male;associate's degree;standard;none;46;43;42;43,67;reprovado
+232;female;bachelor's degree;standard;none;67;86;83;78,67;lista de espera
+233;male;some high school;standard;none;92;87;78;85,67;aprovado
+234;male;bachelor's degree;standard;completed;83;82;84;83;aprovado
+235;male;associate's degree;standard;none;80;75;77;77,33;lista de espera
+236;male;bachelor's degree;free/reduced;none;63;66;67;65,33;lista de espera
+237;female;some high school;standard;completed;64;60;74;66;lista de espera
+238;male;some college;standard;none;54;52;51;52,33;reprovado
+239;male;associate's degree;standard;none;84;80;80;81,33;aprovado
+240;male;high school;free/reduced;completed;73;68;66;69;lista de espera
+241;female;bachelor's degree;standard;none;80;83;83;82;aprovado
+242;female;high school;standard;none;56;52;55;54,33;reprovado
+243;male;some college;standard;none;59;51;43;51;reprovado
+244;male;some high school;standard;none;75;74;69;72,67;lista de espera
+245;male;associate's degree;standard;none;85;76;71;77,33;lista de espera
+246;male;associate's degree;standard;none;89;76;74;79,67;lista de espera
+247;female;high school;standard;completed;58;70;68;65,33;lista de espera
+248;female;high school;standard;none;65;64;62;63,67;lista de espera
+249;male;high school;standard;none;68;60;53;60,33;lista de espera
+250;male;some high school;standard;completed;47;49;49;48,33;reprovado
+251;female;some college;free/reduced;none;71;83;83;79;lista de espera
+252;female;some high school;standard;completed;60;70;70;66,67;lista de espera
+253;male;master's degree;standard;none;80;80;72;77,33;lista de espera
+254;male;high school;standard;none;54;52;52;52,67;reprovado
+255;female;some college;standard;none;62;73;70;68,33;lista de espera
+256;female;associate's degree;free/reduced;none;64;73;68;68,33;lista de espera
+257;male;associate's degree;standard;completed;78;77;77;77,33;lista de espera
+258;female;some college;standard;none;70;75;78;74,33;lista de espera
+259;female;master's degree;free/reduced;completed;65;81;81;75,67;lista de espera
+260;female;some high school;free/reduced;completed;64;79;77;73,33;lista de espera
+261;male;some college;standard;completed;79;79;78;78,67;lista de espera
+262;female;some high school;free/reduced;none;44;50;51;48,33;reprovado
+263;female;high school;standard;none;99;93;90;94;aprovado
+264;male;high school;standard;none;76;73;68;72,33;lista de espera
+265;male;some high school;free/reduced;none;59;42;41;47,33;reprovado
+266;female;bachelor's degree;standard;none;63;75;81;73;lista de espera
+267;female;high school;standard;none;69;72;77;72,67;lista de espera
+268;female;associate's degree;standard;completed;88;92;95;91,67;aprovado
+269;female;some college;free/reduced;none;71;76;70;72,33;lista de espera
+270;male;bachelor's degree;standard;none;69;63;61;64,33;lista de espera
+271;male;some college;standard;none;58;49;42;49,67;reprovado
+272;female;associate's degree;free/reduced;none;47;53;58;52,67;reprovado
+273;female;some college;standard;none;65;70;71;68,67;lista de espera
+274;male;some college;standard;completed;88;85;76;83;aprovado
+275;male;bachelor's degree;standard;none;83;78;73;78;lista de espera
+276;female;some high school;standard;completed;85;92;93;90;aprovado
+277;female;high school;standard;completed;59;63;75;65,67;lista de espera
+278;female;some high school;free/reduced;none;65;86;80;77;lista de espera
+279;male;bachelor's degree;free/reduced;none;73;56;57;62;lista de espera
+280;male;high school;standard;none;53;52;42;49;reprovado
+281;male;high school;standard;none;45;48;46;46,33;reprovado
+282;female;bachelor's degree;free/reduced;none;73;79;84;78,67;lista de espera
+283;female;some college;free/reduced;completed;70;78;78;75,33;lista de espera
+284;female;some high school;standard;none;37;46;46;43;reprovado
+285;male;associate's degree;standard;completed;81;82;82;81,67;aprovado
+286;male;associate's degree;standard;completed;97;82;88;89;aprovado
+287;female;some high school;standard;none;67;89;82;79,33;lista de espera
+288;male;bachelor's degree;free/reduced;none;88;75;76;79,67;lista de espera
+289;male;some high school;standard;completed;77;76;77;76,67;lista de espera
+290;male;associate's degree;standard;none;76;70;68;71,33;lista de espera
+291;male;some high school;standard;none;86;73;70;76,33;lista de espera
+292;male;some high school;standard;completed;63;60;57;60;reprovado
+293;female;bachelor's degree;standard;none;65;73;75;71;lista de espera
+294;male;high school;free/reduced;completed;78;77;80;78,33;lista de espera
+295;male;associate's degree;free/reduced;none;67;62;60;63;lista de espera
+296;male;some high school;standard;completed;46;41;43;43,33;reprovado
+297;male;associate's degree;standard;completed;71;74;68;71;lista de espera
+298;male;high school;free/reduced;completed;40;46;50;45,33;reprovado
+299;male;associate's degree;free/reduced;none;90;87;75;84;aprovado
+300;male;some college;free/reduced;completed;81;78;81;80;reprovado
+301;male;some high school;free/reduced;none;56;54;52;54;reprovado
+302;female;associate's degree;standard;completed;67;84;81;77,33;lista de espera
+303;male;associate's degree;standard;none;80;76;64;73,33;lista de espera
+304;female;associate's degree;standard;completed;74;75;83;77,33;lista de espera
+305;male;some college;standard;none;69;67;69;68,33;lista de espera
+306;male;some college;standard;completed;99;87;81;89;aprovado
+307;male;some high school;standard;none;51;52;44;49;reprovado
+308;female;associate's degree;free/reduced;none;53;71;67;63,67;lista de espera
+309;female;high school;free/reduced;none;49;57;52;52,67;reprovado
+310;female;associate's degree;standard;none;73;76;80;76,33;lista de espera
+311;male;bachelor's degree;standard;none;66;60;57;61;lista de espera
+312;male;bachelor's degree;standard;completed;67;61;68;65,33;lista de espera
+313;female;associate's degree;free/reduced;completed;68;67;69;68;lista de espera
+314;female;bachelor's degree;standard;completed;59;64;75;66;lista de espera
+315;male;high school;standard;none;71;66;65;67,33;lista de espera
+316;female;master's degree;standard;completed;77;82;91;83,33;aprovado
+317;male;associate's degree;standard;none;83;72;78;77,67;lista de espera
+318;male;bachelor's degree;standard;none;63;71;69;67,67;lista de espera
+319;female;associate's degree;free/reduced;none;56;65;63;61,33;lista de espera
+320;female;high school;free/reduced;completed;67;79;84;76,67;lista de espera
+321;female;high school;standard;none;75;86;79;80;reprovado
+322;female;some college;standard;none;71;81;80;77,33;lista de espera
+323;female;some high school;free/reduced;none;43;53;53;49,67;reprovado
+324;female;high school;free/reduced;none;41;46;43;43,33;reprovado
+325;female;some college;standard;none;82;90;94;88,67;aprovado
+326;male;some college;standard;none;61;61;62;61,33;lista de espera
+327;male;some college;free/reduced;none;28;23;19;23,33;reprovado
+328;male;associate's degree;standard;completed;82;75;77;78;lista de espera
+329;female;some high school;standard;none;41;55;51;49;reprovado
+330;male;high school;standard;none;71;60;61;64;lista de espera
+331;male;associate's degree;standard;none;47;37;35;39,67;reprovado
+332;male;associate's degree;standard;completed;62;56;53;57;reprovado
+333;male;associate's degree;standard;none;90;78;81;83;aprovado
+334;female;bachelor's degree;standard;none;83;93;95;90,33;aprovado
+335;female;some college;free/reduced;none;61;68;66;65;lista de espera
+336;male;some high school;standard;completed;76;70;69;71,67;lista de espera
+337;male;associate's degree;standard;none;49;51;43;47,67;reprovado
+338;female;some high school;free/reduced;none;24;38;27;29,67;reprovado
+339;female;some high school;free/reduced;completed;35;55;60;50;reprovado
+340;male;high school;free/reduced;none;58;61;52;57;reprovado
+341;female;high school;standard;none;61;73;63;65,67;lista de espera
+342;female;high school;standard;completed;69;76;74;73;lista de espera
+343;male;associate's degree;standard;completed;67;72;67;68,67;lista de espera
+344;male;some college;standard;none;79;73;67;73;lista de espera
+345;female;high school;standard;none;72;80;75;75,67;lista de espera
+346;male;some college;standard;none;62;61;57;60;reprovado
+347;female;bachelor's degree;standard;completed;77;94;95;88,67;aprovado
+348;male;high school;free/reduced;none;75;74;66;71,67;lista de espera
+349;male;associate's degree;standard;none;87;74;76;79;lista de espera
+350;female;bachelor's degree;standard;none;52;65;69;62;lista de espera
+351;male;some college;standard;none;66;57;52;58,33;reprovado
+352;female;some college;standard;completed;63;78;80;73,67;lista de espera
+353;female;associate's degree;standard;none;46;58;57;53,67;reprovado
+354;female;some college;standard;none;59;71;70;66,67;lista de espera
+355;female;bachelor's degree;standard;none;61;72;70;67,67;lista de espera
+356;male;associate's degree;standard;none;63;61;61;61,67;lista de espera
+357;female;some college;free/reduced;completed;42;66;69;59;reprovado
+358;male;some college;free/reduced;none;59;62;61;60,67;lista de espera
+359;female;some college;standard;none;80;90;89;86,33;aprovado
+360;female;high school;standard;none;58;62;59;59,67;reprovado
+361;male;some high school;standard;completed;85;84;78;82,33;aprovado
+362;female;some college;standard;none;52;58;58;56;reprovado
+363;female;some high school;free/reduced;none;27;34;32;31;reprovado
+364;male;some college;standard;none;59;60;58;59;reprovado
+365;male;bachelor's degree;free/reduced;completed;49;58;60;55,67;reprovado
+366;male;high school;standard;completed;69;58;53;60;reprovado
+367;male;bachelor's degree;free/reduced;none;61;66;61;62,67;lista de espera
+368;female;some high school;free/reduced;none;44;64;58;55,33;reprovado
+369;female;some high school;standard;none;73;84;85;80,67;aprovado
+370;male;some college;standard;none;84;77;71;77,33;lista de espera
+371;female;some college;free/reduced;completed;45;73;70;62,67;lista de espera
+372;male;some high school;standard;none;74;74;72;73,33;lista de espera
+373;female;some college;standard;completed;82;97;96;91,67;aprovado
+374;female;bachelor's degree;standard;none;59;70;73;67,33;lista de espera
+375;male;associate's degree;free/reduced;none;46;43;41;43,33;reprovado
+376;female;some high school;standard;none;80;90;82;84;aprovado
+377;female;master's degree;free/reduced;completed;85;95;100;93,33;aprovado
+378;female;some high school;standard;none;71;83;77;77;lista de espera
+379;male;bachelor's degree;standard;none;66;64;62;64;lista de espera
+380;female;associate's degree;standard;none;80;86;83;83;aprovado
+381;male;associate's degree;standard;completed;87;100;95;94;aprovado
+382;male;master's degree;free/reduced;none;79;81;71;77;lista de espera
+383;female;some high school;free/reduced;none;38;49;45;44;reprovado
+384;female;some high school;free/reduced;none;38;43;43;41,33;reprovado
+385;female;some college;standard;none;67;76;75;72,67;lista de espera
+386;female;bachelor's degree;standard;none;64;73;70;69;lista de espera
+387;female;associate's degree;free/reduced;none;57;78;67;67,33;lista de espera
+388;female;high school;standard;none;62;64;64;63,33;lista de espera
+389;male;master's degree;standard;none;73;70;75;72,67;lista de espera
+390;male;some high school;free/reduced;completed;73;67;59;66,33;lista de espera
+391;female;some college;standard;none;77;68;77;74;lista de espera
+392;male;some college;standard;none;76;67;67;70;lista de espera
+393;male;associate's degree;standard;completed;57;54;56;55,67;reprovado
+394;female;some high school;standard;completed;65;74;77;72;lista de espera
+395;male;high school;free/reduced;none;48;45;41;44,67;reprovado
+396;female;high school;free/reduced;none;50;67;63;60;reprovado
+397;female;associate's degree;standard;none;85;89;95;89,67;aprovado
+398;male;some high school;standard;none;74;63;57;64,67;lista de espera
+399;male;some high school;standard;none;60;59;54;57,67;reprovado
+400;female;some high school;standard;completed;59;54;67;60;reprovado
+401;male;some college;standard;none;53;43;43;46,33;reprovado
+402;female;some college;free/reduced;none;49;65;55;56,33;reprovado
+403;female;high school;standard;completed;88;99;100;95,67;aprovado
+404;female;high school;standard;none;54;59;62;58,33;reprovado
+405;female;some high school;standard;none;63;73;68;68;lista de espera
+406;male;associate's degree;standard;completed;65;65;63;64,33;lista de espera
+407;female;associate's degree;standard;none;82;80;77;79,67;lista de espera
+408;female;high school;free/reduced;completed;52;57;56;55;reprovado
+409;male;associate's degree;standard;completed;87;84;85;85,33;aprovado
+410;female;master's degree;standard;completed;70;71;74;71,67;lista de espera
+411;male;some college;standard;completed;84;83;78;81,67;aprovado
+412;male;associate's degree;standard;none;71;66;60;65,67;lista de espera
+413;male;some high school;standard;completed;63;67;67;65,67;lista de espera
+414;female;bachelor's degree;free/reduced;completed;51;72;79;67,33;lista de espera
+415;male;high school;standard;none;84;73;69;75,33;lista de espera
+416;male;bachelor's degree;standard;completed;71;74;68;71;lista de espera
+417;male;associate's degree;standard;none;74;73;67;71,33;lista de espera
+418;male;some college;standard;none;68;59;62;63;lista de espera
+419;male;high school;free/reduced;completed;57;56;54;55,67;reprovado
+420;female;associate's degree;free/reduced;completed;82;93;93;89,33;aprovado
+421;female;high school;standard;completed;57;58;64;59,67;reprovado
+422;female;master's degree;free/reduced;completed;47;58;67;57,33;reprovado
+423;female;some high school;standard;completed;59;85;80;74,67;lista de espera
+424;male;some college;free/reduced;none;41;39;34;38;reprovado
+425;female;some college;free/reduced;none;62;67;62;63,67;lista de espera
+426;male;bachelor's degree;standard;none;86;83;86;85;aprovado
+427;male;some high school;free/reduced;none;69;71;65;68,33;lista de espera
+428;male;some high school;free/reduced;none;65;59;53;59;reprovado
+429;male;some high school;free/reduced;none;68;63;54;61,67;lista de espera
+430;male;associate's degree;free/reduced;none;64;66;59;63;lista de espera
+431;female;high school;standard;none;61;72;70;67,67;lista de espera
+432;male;high school;standard;none;61;56;55;57,33;reprovado
+433;female;some high school;free/reduced;none;47;59;50;52;reprovado
+434;male;some high school;standard;none;73;66;66;68,33;lista de espera
+435;male;some college;free/reduced;completed;50;48;53;50,33;reprovado
+436;male;associate's degree;standard;none;75;68;64;69;lista de espera
+437;male;associate's degree;free/reduced;none;75;66;73;71,33;lista de espera
+438;male;high school;standard;none;70;56;51;59;reprovado
+439;male;some high school;standard;completed;89;88;82;86,33;aprovado
+440;female;some college;standard;completed;67;81;79;75,67;lista de espera
+441;female;high school;standard;none;78;81;80;79,67;lista de espera
+442;female;some high school;free/reduced;none;59;73;69;67;lista de espera
+443;female;associate's degree;standard;none;73;83;76;77,33;lista de espera
+444;male;some high school;free/reduced;none;79;82;73;78;lista de espera
+445;female;some high school;standard;completed;67;74;77;72,67;lista de espera
+446;male;some college;free/reduced;none;69;66;60;65;lista de espera
+447;male;high school;standard;completed;86;81;80;82,33;aprovado
+448;male;high school;standard;none;47;46;42;45;reprovado
+449;male;associate's degree;standard;none;81;73;72;75,33;lista de espera
+450;female;some college;free/reduced;completed;64;85;85;78;lista de espera
+451;female;some college;standard;none;100;92;97;96,33;aprovado
+452;female;associate's degree;free/reduced;none;65;77;74;72;lista de espera
+453;male;some college;free/reduced;none;65;58;49;57,33;reprovado
+454;female;associate's degree;free/reduced;none;53;61;62;58,67;reprovado
+455;male;bachelor's degree;free/reduced;none;37;56;47;46,67;reprovado
+456;female;bachelor's degree;standard;none;79;89;89;85,67;aprovado
+457;male;associate's degree;free/reduced;none;53;54;48;51,67;reprovado
+458;female;bachelor's degree;standard;none;100;100;100;100;aprovado
+459;male;high school;standard;completed;72;65;68;68,33;lista de espera
+460;male;bachelor's degree;free/reduced;none;53;58;55;55,33;reprovado
+461;male;some college;free/reduced;none;54;54;45;51;reprovado
+462;female;some college;standard;none;71;70;76;72,33;lista de espera
+463;female;some college;free/reduced;none;77;90;91;86;aprovado
+464;male;bachelor's degree;standard;completed;75;58;62;65;lista de espera
+465;female;some college;standard;none;84;87;91;87,33;aprovado
+466;female;associate's degree;free/reduced;none;26;31;38;31,67;reprovado
+467;male;high school;free/reduced;completed;72;67;65;68;lista de espera
+468;female;high school;free/reduced;completed;77;88;85;83,33;aprovado
+469;male;some college;standard;none;91;74;76;80,33;aprovado
+470;female;associate's degree;standard;completed;83;85;90;86;aprovado
+471;female;high school;standard;none;63;69;74;68,67;lista de espera
+472;female;associate's degree;standard;completed;68;86;84;79,33;lista de espera
+473;female;some high school;standard;none;59;67;61;62,33;lista de espera
+474;female;associate's degree;standard;completed;90;90;91;90,33;aprovado
+475;female;bachelor's degree;standard;completed;71;76;83;76,67;lista de espera
+476;male;bachelor's degree;standard;completed;76;62;66;68;lista de espera
+477;male;associate's degree;standard;none;80;68;72;73,33;lista de espera
+478;female;master's degree;standard;none;55;64;70;63;lista de espera
+479;male;associate's degree;standard;none;76;71;67;71,33;lista de espera
+480;male;high school;standard;completed;73;71;68;70,67;lista de espera
+481;female;associate's degree;free/reduced;none;52;59;56;55,67;reprovado
+482;male;some college;free/reduced;none;68;68;61;65,67;lista de espera
+483;male;high school;standard;none;59;52;46;52,33;reprovado
+484;female;associate's degree;standard;none;49;52;54;51,67;reprovado
+485;male;high school;standard;none;70;74;71;71,67;lista de espera
+486;male;some college;free/reduced;none;61;47;56;54,67;reprovado
+487;female;associate's degree;free/reduced;none;60;75;74;69,67;lista de espera
+488;male;some high school;standard;completed;64;53;57;58;reprovado
+489;male;associate's degree;free/reduced;completed;79;82;82;81;aprovado
+490;female;associate's degree;free/reduced;none;65;85;76;75,33;lista de espera
+491;female;associate's degree;standard;none;64;64;70;66;lista de espera
+492;female;some college;standard;none;83;83;90;85,33;aprovado
+493;female;bachelor's degree;standard;none;81;88;90;86,33;aprovado
+494;female;high school;standard;none;54;64;68;62;lista de espera
+495;male;high school;standard;completed;68;64;66;66;lista de espera
+496;female;some college;standard;none;54;48;52;51,33;reprovado
+497;female;some college;free/reduced;completed;59;78;76;71;lista de espera
+498;female;some high school;standard;none;66;69;68;67,67;lista de espera
+499;male;some college;standard;none;76;71;72;73;lista de espera
+500;female;master's degree;standard;none;74;79;82;78,33;lista de espera
+501;female;associate's degree;standard;completed;94;87;92;91;aprovado
+502;male;some college;free/reduced;none;63;61;54;59,33;reprovado
+503;female;associate's degree;standard;completed;95;89;92;92;aprovado
+504;female;master's degree;free/reduced;none;40;59;54;51;reprovado
+505;female;some high school;standard;none;82;82;80;81,33;aprovado
+506;male;high school;standard;none;68;70;66;68;lista de espera
+507;male;bachelor's degree;free/reduced;none;55;59;54;56;reprovado
+508;male;master's degree;standard;none;79;78;77;78;lista de espera
+509;female;bachelor's degree;standard;none;86;92;87;88,33;aprovado
+510;male;some college;standard;none;76;71;73;73,33;lista de espera
+511;male;some high school;standard;none;64;50;43;52,33;reprovado
+512;male;some high school;free/reduced;none;62;49;52;54,33;reprovado
+513;female;some high school;standard;completed;54;61;62;59;reprovado
+514;female;master's degree;free/reduced;completed;77;97;94;89,33;aprovado
+515;female;some high school;standard;completed;76;87;85;82,67;aprovado
+516;female;some college;standard;none;74;89;84;82,33;aprovado
+517;female;some college;standard;completed;66;74;73;71;lista de espera
+518;female;some high school;standard;completed;66;78;78;74;lista de espera
+519;female;high school;free/reduced;completed;67;78;79;74,67;lista de espera
+520;male;some college;standard;none;71;49;52;57,33;reprovado
+521;female;associate's degree;standard;none;91;86;84;87;aprovado
+522;male;bachelor's degree;standard;none;69;58;57;61,33;lista de espera
+523;male;master's degree;free/reduced;none;54;59;50;54,33;reprovado
+524;male;high school;standard;completed;53;52;49;51,33;reprovado
+525;male;some college;standard;none;68;60;59;62,33;lista de espera
+526;male;some high school;free/reduced;completed;56;61;60;59;reprovado
+527;female;high school;free/reduced;none;36;53;43;44;reprovado
+528;female;bachelor's degree;free/reduced;none;29;41;47;39;reprovado
+529;female;associate's degree;standard;none;62;74;70;68,67;lista de espera
+530;female;associate's degree;standard;completed;68;67;73;69,33;lista de espera
+531;female;some high school;standard;none;47;54;53;51,33;reprovado
+532;male;associate's degree;standard;completed;62;61;58;60,33;lista de espera
+533;female;associate's degree;standard;completed;79;88;94;87;aprovado
+534;male;high school;standard;completed;73;69;68;70;lista de espera
+535;female;bachelor's degree;free/reduced;completed;66;83;83;77,33;lista de espera
+536;male;associate's degree;standard;completed;51;60;58;56,33;reprovado
+537;female;high school;standard;none;51;66;62;59,67;reprovado
+538;male;bachelor's degree;standard;completed;85;66;71;74;lista de espera
+539;male;associate's degree;standard;completed;97;92;86;91,67;aprovado
+540;male;high school;standard;completed;75;69;68;70,67;lista de espera
+541;male;associate's degree;free/reduced;completed;79;82;80;80,33;aprovado
+542;female;associate's degree;standard;none;81;77;79;79;lista de espera
+543;female;associate's degree;standard;none;82;95;89;88,67;aprovado
+544;female;master's degree;standard;none;64;63;66;64,33;lista de espera
+545;male;some high school;free/reduced;completed;78;83;80;80,33;aprovado
+546;female;some high school;standard;completed;92;100;97;96,33;aprovado
+547;male;high school;standard;completed;72;67;64;67,67;lista de espera
+548;female;high school;free/reduced;none;62;67;64;64,33;lista de espera
+549;male;master's degree;standard;none;79;72;69;73,33;lista de espera
+550;male;some high school;free/reduced;none;79;76;65;73,33;lista de espera
+551;male;bachelor's degree;free/reduced;completed;87;90;88;88,33;aprovado
+552;female;associate's degree;standard;none;40;48;50;46;reprovado
+553;male;some college;free/reduced;none;77;62;64;67,67;lista de espera
+554;male;associate's degree;standard;none;53;45;40;46;reprovado
+555;female;some college;free/reduced;none;32;39;33;34,67;reprovado
+556;female;associate's degree;standard;completed;55;72;79;68,67;lista de espera
+557;male;master's degree;free/reduced;none;61;67;66;64,67;lista de espera
+558;female;associate's degree;free/reduced;none;53;70;70;64,33;lista de espera
+559;male;some high school;standard;none;73;66;62;67;lista de espera
+560;female;some college;standard;completed;74;75;79;76;lista de espera
+561;female;some college;standard;none;63;74;74;70,33;lista de espera
+562;male;bachelor's degree;standard;completed;96;90;92;92,67;aprovado
+563;female;some college;free/reduced;completed;63;80;80;74,33;lista de espera
+564;male;bachelor's degree;free/reduced;none;48;51;46;48,33;reprovado
+565;male;associate's degree;standard;none;48;43;45;45,33;reprovado
+566;female;bachelor's degree;free/reduced;completed;92;100;100;97,33;aprovado
+567;female;master's degree;free/reduced;completed;61;71;78;70;lista de espera
+568;male;high school;free/reduced;none;63;48;47;52,67;reprovado
+569;male;bachelor's degree;free/reduced;none;68;68;67;67,67;lista de espera
+570;male;some college;standard;completed;71;75;70;72;lista de espera
+571;male;bachelor's degree;standard;none;91;96;92;93;aprovado
+572;female;some college;standard;none;53;62;56;57;reprovado
+573;female;high school;free/reduced;completed;50;66;64;60;reprovado
+574;female;high school;standard;none;74;81;71;75,33;lista de espera
+575;male;associate's degree;free/reduced;completed;40;55;53;49,33;reprovado
+576;male;some college;standard;completed;61;51;52;54,67;reprovado
+577;female;high school;standard;none;81;91;89;87;aprovado
+578;female;some college;free/reduced;completed;48;56;58;54;reprovado
+579;female;master's degree;standard;none;53;61;68;60,67;lista de espera
+580;female;some high school;standard;none;81;97;96;91,33;aprovado
+581;female;some high school;standard;none;77;79;80;78,67;lista de espera
+582;female;bachelor's degree;free/reduced;none;63;73;78;71,33;lista de espera
+583;female;associate's degree;standard;completed;73;75;80;76;lista de espera
+584;female;some college;standard;none;69;77;77;74,33;lista de espera
+585;female;associate's degree;standard;none;65;76;76;72,33;lista de espera
+586;female;high school;standard;none;55;73;73;67;lista de espera
+587;female;bachelor's degree;free/reduced;none;44;63;62;56,33;reprovado
+588;female;some college;standard;none;54;64;65;61;lista de espera
+589;female;some high school;standard;none;48;66;65;59,67;reprovado
+590;male;some college;free/reduced;none;58;57;54;56,33;reprovado
+591;male;some high school;standard;none;71;62;50;61;lista de espera
+592;male;bachelor's degree;standard;none;68;68;64;66,67;lista de espera
+593;female;high school;standard;none;74;76;73;74,33;lista de espera
+594;female;bachelor's degree;standard;completed;92;100;99;97;aprovado
+595;female;bachelor's degree;standard;completed;56;79;72;69;lista de espera
+596;male;high school;free/reduced;none;30;24;15;23;reprovado
+597;male;some high school;standard;none;53;54;48;51,67;reprovado
+598;female;high school;standard;none;69;77;73;73;lista de espera
+599;female;some high school;standard;none;65;82;81;76;lista de espera
+600;female;master's degree;standard;none;54;60;63;59;reprovado
+601;female;high school;standard;none;29;29;30;29,33;reprovado
+602;female;some college;standard;none;76;78;80;78;lista de espera
+603;male;high school;free/reduced;none;60;57;51;56;reprovado
+604;male;master's degree;free/reduced;completed;84;89;90;87,67;aprovado
+605;male;some high school;standard;none;75;72;62;69,67;lista de espera
+606;female;associate's degree;standard;none;85;84;82;83,67;aprovado
+607;female;master's degree;free/reduced;none;40;58;54;50,67;reprovado
+608;female;some college;standard;none;61;64;62;62,33;lista de espera
+609;female;associate's degree;standard;none;58;63;65;62;lista de espera
+610;male;some college;free/reduced;completed;69;60;63;64;lista de espera
+611;female;some college;standard;none;58;59;66;61;lista de espera
+612;male;bachelor's degree;standard;completed;94;90;91;91,67;aprovado
+613;female;associate's degree;standard;none;65;77;74;72;lista de espera
+614;female;associate's degree;standard;none;82;93;93;89,33;aprovado
+615;female;high school;standard;none;60;68;72;66,67;lista de espera
+616;female;bachelor's degree;standard;none;37;45;38;40;reprovado
+617;male;bachelor's degree;standard;none;88;78;83;83;aprovado
+618;male;master's degree;standard;none;95;81;84;86,67;aprovado
+619;male;associate's degree;free/reduced;completed;65;73;68;68,67;lista de espera
+620;female;high school;free/reduced;none;35;61;54;50;reprovado
+621;male;bachelor's degree;free/reduced;none;62;63;56;60,33;lista de espera
+622;male;high school;free/reduced;completed;58;51;52;53,67;reprovado
+623;male;some college;standard;completed;100;96;86;94;aprovado
+624;female;bachelor's degree;free/reduced;none;61;58;62;60,33;lista de espera
+625;male;some college;standard;completed;100;97;99;98,67;aprovado
+626;male;associate's degree;free/reduced;completed;69;70;63;67,33;lista de espera
+627;male;associate's degree;standard;none;61;48;46;51,67;reprovado
+628;male;some college;free/reduced;none;49;57;46;50,67;reprovado
+629;female;some high school;standard;completed;44;51;55;50;reprovado
+630;male;some college;standard;none;67;64;70;67;lista de espera
+631;male;high school;standard;none;79;60;65;68;lista de espera
+632;female;bachelor's degree;standard;completed;66;74;81;73,67;lista de espera
+633;female;high school;standard;none;75;88;85;82,67;aprovado
+634;male;some high school;standard;none;84;84;80;82,67;aprovado
+635;male;high school;standard;none;71;74;64;69,67;lista de espera
+636;female;high school;free/reduced;completed;67;80;81;76;lista de espera
+637;female;some high school;standard;completed;80;92;88;86,67;aprovado
+638;male;some college;standard;none;86;76;74;78,67;lista de espera
+639;female;associate's degree;standard;none;76;74;73;74,33;lista de espera
+640;male;high school;standard;none;41;52;51;48;reprovado
+641;female;associate's degree;free/reduced;completed;74;88;90;84;aprovado
+642;female;some high school;free/reduced;none;72;81;79;77,33;lista de espera
+643;female;high school;standard;completed;74;79;80;77,67;lista de espera
+644;male;high school;standard;none;70;65;60;65;lista de espera
+645;female;bachelor's degree;standard;completed;65;81;81;75,67;lista de espera
+646;female;associate's degree;standard;none;59;70;65;64,67;lista de espera
+647;female;high school;free/reduced;none;64;62;68;64,67;lista de espera
+648;female;high school;standard;none;50;53;55;52,67;reprovado
+649;female;some college;standard;completed;69;79;81;76,33;lista de espera
+650;male;some high school;free/reduced;completed;51;56;53;53,33;reprovado
+651;female;high school;standard;completed;68;80;76;74,67;lista de espera
+652;female;some college;standard;completed;85;86;98;89,67;aprovado
+653;female;associate's degree;standard;completed;65;70;74;69,67;lista de espera
+654;female;some high school;standard;none;73;79;79;77;lista de espera
+655;female;some college;standard;none;62;67;67;65,33;lista de espera
+656;male;associate's degree;free/reduced;none;77;67;64;69,33;lista de espera
+657;male;some high school;standard;none;69;66;61;65,33;lista de espera
+658;female;associate's degree;free/reduced;none;43;60;58;53,67;reprovado
+659;male;associate's degree;standard;none;90;87;85;87,33;aprovado
+660;male;some college;free/reduced;none;74;77;73;74,67;lista de espera
+661;male;some high school;standard;none;73;66;63;67,33;lista de espera
+662;female;some college;free/reduced;none;55;71;69;65;lista de espera
+663;female;high school;standard;none;65;69;67;67;lista de espera
+664;male;associate's degree;standard;none;80;63;63;68,67;lista de espera
+665;female;some high school;free/reduced;completed;50;60;60;56,67;reprovado
+666;female;some college;free/reduced;completed;63;73;71;69;lista de espera
+667;female;bachelor's degree;free/reduced;none;77;85;87;83;aprovado
+668;male;some college;standard;none;73;74;61;69,33;lista de espera
+669;male;associate's degree;standard;completed;81;72;77;76,67;lista de espera
+670;female;high school;free/reduced;none;66;76;68;70;lista de espera
+671;male;associate's degree;free/reduced;none;52;57;50;53;reprovado
+672;female;some college;standard;none;69;78;76;74,33;lista de espera
+673;female;associate's degree;standard;completed;65;84;84;77,67;lista de espera
+674;female;high school;standard;completed;69;77;78;74,67;lista de espera
+675;female;some college;standard;completed;50;64;66;60;reprovado
+676;female;some college;standard;completed;73;78;76;75,67;lista de espera
+677;female;some high school;standard;completed;70;82;76;76;lista de espera
+678;male;associate's degree;free/reduced;none;81;75;78;78;lista de espera
+679;male;some college;free/reduced;none;63;61;60;61,33;lista de espera
+680;female;high school;standard;none;67;72;74;71;lista de espera
+681;male;high school;standard;none;60;68;60;62,67;lista de espera
+682;male;high school;standard;none;62;55;54;57;reprovado
+683;female;some high school;free/reduced;completed;29;40;44;37,67;reprovado
+684;male;some college;standard;completed;62;66;68;65,33;lista de espera
+685;female;master's degree;standard;completed;94;99;100;97,67;aprovado
+686;male;some college;standard;completed;85;75;68;76;lista de espera
+687;male;associate's degree;free/reduced;none;77;78;73;76;lista de espera
+688;male;high school;free/reduced;none;53;58;44;51,67;reprovado
+689;male;some college;free/reduced;none;93;90;83;88,67;aprovado
+690;female;associate's degree;standard;none;49;53;53;51,67;reprovado
+691;female;associate's degree;free/reduced;none;73;76;78;75,67;lista de espera
+692;female;bachelor's degree;free/reduced;completed;66;74;81;73,67;lista de espera
+693;female;associate's degree;standard;none;77;77;73;75,67;lista de espera
+694;female;some high school;standard;none;49;63;56;56;reprovado
+695;female;some college;free/reduced;none;79;89;86;84,67;aprovado
+696;female;associate's degree;standard;completed;75;82;90;82,33;aprovado
+697;female;bachelor's degree;standard;none;59;72;70;67;lista de espera
+698;female;associate's degree;standard;completed;57;78;79;71,33;lista de espera
+699;male;high school;free/reduced;none;66;66;59;63,67;lista de espera
+700;female;bachelor's degree;standard;completed;79;81;82;80,67;aprovado
+701;female;some high school;standard;none;57;67;72;65,33;lista de espera
+702;male;bachelor's degree;standard;completed;87;84;87;86;aprovado
+703;female;some college;standard;none;63;64;67;64,67;lista de espera
+704;female;some high school;free/reduced;completed;59;63;64;62;lista de espera
+705;male;bachelor's degree;free/reduced;none;62;72;65;66,33;lista de espera
+706;male;high school;standard;none;46;34;36;38,67;reprovado
+707;male;some college;standard;none;66;59;52;59;reprovado
+708;male;high school;standard;none;89;87;79;85;aprovado
+709;female;associate's degree;free/reduced;completed;42;61;58;53,67;reprovado
+710;male;some college;standard;completed;93;84;90;89;aprovado
+711;female;some high school;standard;completed;80;85;85;83,33;aprovado
+712;female;some college;standard;none;98;100;99;99;aprovado
+713;male;master's degree;standard;none;81;81;84;82;aprovado
+714;female;some high school;standard;completed;60;70;74;68;lista de espera
+715;female;associate's degree;free/reduced;completed;76;94;87;85,67;aprovado
+716;male;associate's degree;standard;completed;73;78;72;74,33;lista de espera
+717;female;associate's degree;standard;completed;96;96;99;97;aprovado
+718;female;high school;standard;none;76;76;74;75,33;lista de espera
+719;male;associate's degree;free/reduced;completed;91;73;80;81,33;aprovado
+720;female;some college;free/reduced;none;62;72;70;68;lista de espera
+721;male;some high school;free/reduced;completed;55;59;59;57,67;reprovado
+722;female;some high school;free/reduced;completed;74;90;88;84;aprovado
+723;male;high school;standard;none;50;48;42;46,67;reprovado
+724;male;some college;standard;none;47;43;41;43,67;reprovado
+725;male;some college;standard;completed;81;74;71;75,33;lista de espera
+726;female;associate's degree;standard;completed;65;75;77;72,33;lista de espera
+727;male;some high school;standard;completed;68;51;57;58,67;reprovado
+728;female;high school;free/reduced;none;73;92;84;83;aprovado
+729;male;some college;standard;none;53;39;37;43;reprovado
+730;female;associate's degree;free/reduced;completed;68;77;80;75;lista de espera
+731;male;some high school;free/reduced;none;55;46;43;48;reprovado
+732;female;some college;standard;completed;87;89;94;90;aprovado
+733;male;some high school;standard;none;55;47;44;48,67;reprovado
+734;female;some college;free/reduced;none;53;58;57;56;reprovado
+735;male;master's degree;standard;none;67;57;59;61;lista de espera
+736;male;associate's degree;standard;none;92;79;84;85;aprovado
+737;female;some college;free/reduced;completed;53;66;73;64;lista de espera
+738;male;associate's degree;standard;none;81;71;73;75;lista de espera
+739;male;high school;free/reduced;none;61;60;55;58,67;reprovado
+740;male;bachelor's degree;standard;none;80;73;72;75;lista de espera
+741;female;associate's degree;free/reduced;none;37;57;56;50;reprovado
+742;female;high school;standard;none;81;84;82;82,33;aprovado
+743;female;associate's degree;standard;completed;59;73;72;68;lista de espera
+744;male;some college;free/reduced;none;55;55;47;52,33;reprovado
+745;male;associate's degree;standard;none;72;79;74;75;lista de espera
+746;male;high school;standard;none;69;75;71;71,67;lista de espera
+747;male;some college;standard;none;69;64;68;67;lista de espera
+748;female;bachelor's degree;free/reduced;none;50;60;59;56,33;reprovado
+749;male;some college;standard;completed;87;84;86;85,67;aprovado
+750;male;some high school;standard;completed;71;69;68;69,33;lista de espera
+751;male;some college;standard;none;68;72;65;68,33;lista de espera
+752;male;master's degree;free/reduced;completed;79;77;75;77;lista de espera
+753;female;some high school;standard;completed;77;90;85;84;aprovado
+754;male;associate's degree;free/reduced;none;58;55;53;55,33;reprovado
+755;female;associate's degree;standard;none;84;95;92;90,33;aprovado
+756;male;some college;standard;none;55;58;52;55;reprovado
+757;male;bachelor's degree;free/reduced;completed;70;68;72;70;lista de espera
+758;female;some college;free/reduced;completed;52;59;65;58,67;reprovado
+759;male;some college;standard;completed;69;77;77;74,33;lista de espera
+760;female;high school;free/reduced;none;53;72;64;63;lista de espera
+761;female;some high school;standard;none;48;58;54;53,33;reprovado
+762;male;some high school;standard;completed;78;81;86;81,67;aprovado
+763;female;high school;standard;none;62;62;63;62,33;lista de espera
+764;male;some college;standard;none;60;63;59;60,67;lista de espera
+765;female;high school;standard;none;74;72;72;72,67;lista de espera
+766;female;high school;standard;completed;58;75;77;70;lista de espera
+767;male;high school;standard;completed;76;62;60;66;lista de espera
+768;female;some high school;standard;none;68;71;75;71,33;lista de espera
+769;male;some college;free/reduced;none;58;60;57;58,33;reprovado
+770;male;high school;standard;none;52;48;49;49,67;reprovado
+771;male;bachelor's degree;standard;none;75;73;74;74;lista de espera
+772;female;some high school;free/reduced;completed;52;67;72;63,67;lista de espera
+773;female;bachelor's degree;free/reduced;none;62;78;79;73;lista de espera
+774;male;some college;standard;none;66;65;60;63,67;lista de espera
+775;female;some high school;free/reduced;none;49;58;55;54;reprovado
+776;female;high school;standard;none;66;72;70;69,33;lista de espera
+777;female;some college;free/reduced;none;35;44;43;40,67;reprovado
+778;female;some college;standard;completed;72;79;82;77,67;lista de espera
+779;male;associate's degree;standard;completed;94;85;82;87;aprovado
+780;female;associate's degree;free/reduced;none;46;56;57;53;reprovado
+781;female;master's degree;standard;none;77;90;84;83,67;aprovado
+782;female;high school;free/reduced;completed;76;85;82;81;aprovado
+783;female;associate's degree;standard;completed;52;59;62;57,67;reprovado
+784;male;bachelor's degree;standard;completed;91;81;79;83,67;aprovado
+785;female;some high school;standard;completed;32;51;44;42,33;reprovado
+786;female;some high school;free/reduced;none;72;79;77;76;lista de espera
+787;female;some college;standard;none;19;38;32;29,67;reprovado
+788;male;associate's degree;free/reduced;none;68;65;61;64,67;lista de espera
+789;female;master's degree;free/reduced;none;52;65;61;59,33;reprovado
+790;female;high school;standard;none;48;62;60;56,67;reprovado
+791;female;some college;free/reduced;none;60;66;70;65,33;lista de espera
+792;male;high school;free/reduced;none;66;74;69;69,67;lista de espera
+793;male;some high school;standard;completed;89;84;77;83,33;aprovado
+794;female;high school;standard;none;42;52;51;48,33;reprovado
+795;female;associate's degree;free/reduced;completed;57;68;73;66;lista de espera
+796;male;high school;standard;none;70;70;70;70;lista de espera
+797;female;associate's degree;free/reduced;none;70;84;81;78,33;lista de espera
+798;male;some college;standard;none;69;60;54;61;lista de espera
+799;female;associate's degree;standard;none;52;55;57;54,67;reprovado
+800;male;some high school;standard;completed;67;73;68;69,33;lista de espera
+801;male;some high school;standard;completed;76;80;73;76,33;lista de espera
+802;female;associate's degree;standard;none;87;94;95;92;aprovado
+803;female;some college;standard;none;82;85;87;84,67;aprovado
+804;female;some college;standard;none;73;76;78;75,67;lista de espera
+805;male;some college;free/reduced;none;75;81;74;76,67;lista de espera
+806;female;some college;free/reduced;none;64;74;75;71;lista de espera
+807;female;high school;free/reduced;none;41;45;40;42;reprovado
+808;male;high school;standard;none;90;75;69;78;lista de espera
+809;male;bachelor's degree;standard;none;59;54;51;54,67;reprovado
+810;male;some high school;standard;none;51;31;36;39,33;reprovado
+811;male;high school;free/reduced;none;45;47;49;47;reprovado
+812;female;master's degree;standard;completed;54;64;67;61,67;lista de espera
+813;male;some high school;standard;completed;87;84;76;82,33;aprovado
+814;female;high school;standard;none;72;80;83;78,33;lista de espera
+815;male;some high school;standard;completed;94;86;87;89;aprovado
+816;female;bachelor's degree;standard;none;45;59;64;56;reprovado
+817;male;bachelor's degree;free/reduced;completed;61;70;76;69;lista de espera
+818;female;high school;free/reduced;none;60;72;68;66,67;lista de espera
+819;female;some high school;standard;none;77;91;88;85,33;aprovado
+820;female;some high school;standard;completed;85;90;92;89;aprovado
+821;female;bachelor's degree;free/reduced;none;78;90;93;87;aprovado
+822;male;some college;free/reduced;completed;49;52;51;50,67;reprovado
+823;female;high school;free/reduced;none;71;87;82;80;reprovado
+824;female;some high school;free/reduced;none;48;58;52;52,67;reprovado
+825;male;high school;standard;none;62;67;58;62,33;lista de espera
+826;female;associate's degree;free/reduced;completed;56;68;70;64,67;lista de espera
+827;female;some high school;standard;none;65;69;76;70;lista de espera
+828;female;some high school;free/reduced;completed;69;86;81;78,67;lista de espera
+829;male;some high school;standard;none;68;54;53;58,33;reprovado
+830;female;some college;free/reduced;none;61;60;57;59,33;reprovado
+831;female;bachelor's degree;free/reduced;completed;74;86;89;83;aprovado
+832;male;bachelor's degree;standard;none;64;60;58;60,67;lista de espera
+833;female;high school;standard;completed;77;82;89;82,67;aprovado
+834;male;some college;standard;none;58;50;45;51;reprovado
+835;female;high school;standard;completed;60;64;74;66;lista de espera
+836;male;high school;standard;none;73;64;57;64,67;lista de espera
+837;female;high school;standard;completed;75;82;79;78,67;lista de espera
+838;male;associate's degree;free/reduced;completed;58;57;53;56;reprovado
+839;female;associate's degree;standard;none;66;77;73;72;lista de espera
+840;female;high school;free/reduced;none;39;52;46;45,67;reprovado
+841;male;some high school;standard;none;64;58;51;57,67;reprovado
+842;female;high school;free/reduced;completed;23;44;36;34,33;reprovado
+843;male;some college;free/reduced;completed;74;77;76;75,67;lista de espera
+844;female;some high school;free/reduced;completed;40;65;64;56,33;reprovado
+845;male;master's degree;standard;none;90;85;84;86,33;aprovado
+846;male;master's degree;standard;completed;91;85;85;87;aprovado
+847;male;high school;standard;none;64;54;50;56;reprovado
+848;female;high school;standard;none;59;72;68;66,33;lista de espera
+849;male;associate's degree;standard;none;80;75;69;74,67;lista de espera
+850;male;master's degree;standard;none;71;67;67;68,33;lista de espera
+851;female;high school;standard;none;61;68;63;64;lista de espera
+852;female;some college;standard;none;87;85;93;88,33;aprovado
+853;male;some high school;standard;none;82;67;61;70;lista de espera
+854;male;some high school;standard;none;62;64;55;60,33;lista de espera
+855;female;bachelor's degree;standard;none;97;97;96;96,67;aprovado
+856;male;some college;free/reduced;none;75;68;65;69,33;lista de espera
+857;female;bachelor's degree;standard;none;65;79;81;75;lista de espera
+858;male;high school;standard;completed;52;49;46;49;reprovado
+859;male;associate's degree;free/reduced;none;87;73;72;77,33;lista de espera
+860;female;associate's degree;standard;none;53;62;53;56;reprovado
+861;female;master's degree;free/reduced;none;81;86;87;84,67;aprovado
+862;male;bachelor's degree;free/reduced;completed;39;42;38;39,67;reprovado
+863;female;some college;standard;completed;71;71;80;74;lista de espera
+864;male;associate's degree;standard;none;97;93;91;93,67;aprovado
+865;male;some college;standard;completed;82;82;88;84;aprovado
+866;male;high school;free/reduced;none;59;53;52;54,67;reprovado
+867;male;associate's degree;standard;none;61;42;41;48;reprovado
+868;male;associate's degree;free/reduced;completed;78;74;72;74,67;lista de espera
+869;male;associate's degree;free/reduced;none;49;51;51;50,33;reprovado
+870;male;high school;standard;none;59;58;47;54,67;reprovado
+871;female;some college;standard;completed;70;72;76;72,67;lista de espera
+872;male;associate's degree;standard;completed;82;84;78;81,33;aprovado
+873;male;associate's degree;free/reduced;none;90;90;82;87,33;aprovado
+874;female;bachelor's degree;free/reduced;none;43;62;61;55,33;reprovado
+875;male;some college;free/reduced;none;80;64;66;70;lista de espera
+876;male;some college;standard;none;81;82;84;82,33;aprovado
+877;male;some high school;standard;none;57;61;54;57,33;reprovado
+878;female;some high school;standard;none;59;72;80;70,33;lista de espera
+879;female;associate's degree;standard;none;64;76;74;71,33;lista de espera
+880;male;bachelor's degree;standard;completed;63;64;66;64,33;lista de espera
+881;female;bachelor's degree;standard;completed;71;70;70;70,33;lista de espera
+882;female;high school;free/reduced;none;64;73;71;69,33;lista de espera
+883;male;bachelor's degree;free/reduced;none;55;46;44;48,33;reprovado
+884;female;associate's degree;standard;none;51;51;54;52;reprovado
+885;female;associate's degree;standard;completed;62;76;80;72,67;lista de espera
+886;female;associate's degree;standard;completed;93;100;95;96;aprovado
+887;male;high school;free/reduced;none;54;72;59;61,67;lista de espera
+888;female;some college;free/reduced;none;69;65;74;69,33;lista de espera
+889;male;high school;free/reduced;none;44;51;48;47,67;reprovado
+890;female;some college;standard;completed;86;85;91;87,33;aprovado
+891;female;associate's degree;standard;none;85;92;85;87,33;aprovado
+892;female;master's degree;free/reduced;none;50;67;73;63,33;lista de espera
+893;male;some high school;standard;completed;88;74;75;79;lista de espera
+894;female;associate's degree;standard;none;59;62;69;63,33;lista de espera
+895;female;some high school;free/reduced;none;32;34;38;34,67;reprovado
+896;male;high school;free/reduced;none;36;29;27;30,67;reprovado
+897;female;some high school;free/reduced;completed;63;78;79;73,33;lista de espera
+898;male;associate's degree;standard;completed;67;54;63;61,33;lista de espera
+899;female;some high school;standard;completed;65;78;82;75;lista de espera
+900;male;master's degree;standard;none;85;84;89;86;aprovado
+901;female;master's degree;standard;none;73;78;74;75;lista de espera
+902;female;high school;free/reduced;completed;34;48;41;41;reprovado
+903;female;bachelor's degree;free/reduced;completed;93;100;100;97,67;aprovado
+904;female;some high school;free/reduced;none;67;84;84;78,33;lista de espera
+905;male;some college;standard;none;88;77;77;80,67;aprovado
+906;male;high school;standard;none;57;48;51;52;reprovado
+907;female;some college;standard;completed;79;84;91;84,67;aprovado
+908;female;bachelor's degree;free/reduced;none;67;75;72;71,33;lista de espera
+909;male;bachelor's degree;standard;completed;70;64;70;68;lista de espera
+910;male;bachelor's degree;free/reduced;none;50;42;48;46,67;reprovado
+911;female;some college;standard;none;69;84;82;78,33;lista de espera
+912;female;bachelor's degree;standard;completed;52;61;66;59,67;reprovado
+913;female;bachelor's degree;free/reduced;completed;47;62;66;58,33;reprovado
+914;female;associate's degree;free/reduced;none;46;61;55;54;reprovado
+915;female;some college;standard;none;68;70;66;68;lista de espera
+916;male;bachelor's degree;standard;completed;100;100;100;100;aprovado
+917;female;high school;standard;none;44;61;52;52,33;reprovado
+918;female;associate's degree;standard;completed;57;77;80;71,33;lista de espera
+919;male;some college;standard;completed;91;96;91;92,67;aprovado
+920;male;high school;free/reduced;none;69;70;67;68,67;lista de espera
+921;female;high school;free/reduced;none;35;53;46;44,67;reprovado
+922;male;high school;standard;none;72;66;66;68;lista de espera
+923;female;associate's degree;free/reduced;none;54;65;65;61,33;lista de espera
+924;male;high school;free/reduced;none;74;70;69;71;lista de espera
+925;male;some high school;standard;completed;74;64;60;66;lista de espera
+926;male;associate's degree;free/reduced;none;64;56;52;57,33;reprovado
+927;female;high school;free/reduced;completed;65;61;71;65,67;lista de espera
+928;male;associate's degree;free/reduced;completed;46;43;44;44,33;reprovado
+929;female;some high school;free/reduced;none;48;56;51;51,67;reprovado
+930;male;some college;free/reduced;completed;67;74;70;70,33;lista de espera
+931;male;some college;free/reduced;none;62;57;62;60,33;lista de espera
+932;male;associate's degree;free/reduced;completed;61;71;73;68,33;lista de espera
+933;male;bachelor's degree;free/reduced;completed;70;75;74;73;lista de espera
+934;male;associate's degree;standard;completed;98;87;90;91,67;aprovado
+935;male;some college;free/reduced;none;70;63;58;63,67;lista de espera
+936;male;associate's degree;standard;none;67;57;53;59;reprovado
+937;female;high school;free/reduced;none;57;58;57;57,33;reprovado
+938;male;some college;standard;completed;85;81;85;83,67;aprovado
+939;male;some high school;standard;completed;77;68;69;71,33;lista de espera
+940;male;master's degree;free/reduced;completed;72;66;72;70;lista de espera
+941;female;master's degree;standard;none;78;91;96;88,33;aprovado
+942;male;high school;standard;none;81;66;64;70,33;lista de espera
+943;male;some high school;free/reduced;completed;61;62;61;61,33;lista de espera
+944;female;high school;standard;none;58;68;61;62,33;lista de espera
+945;female;associate's degree;standard;none;54;61;58;57,67;reprovado
+946;male;high school;standard;none;82;82;80;81,33;aprovado
+947;female;some college;free/reduced;none;49;58;60;55,67;reprovado
+948;male;some high school;free/reduced;completed;49;50;52;50,33;reprovado
+949;female;high school;free/reduced;completed;57;75;73;68,33;lista de espera
+950;male;high school;standard;none;94;73;71;79,33;lista de espera
+951;female;some college;standard;completed;75;77;83;78,33;lista de espera
+952;female;some high school;free/reduced;none;74;74;72;73,33;lista de espera
+953;male;high school;standard;completed;58;52;54;54,67;reprovado
+954;female;some college;standard;none;62;69;69;66,67;lista de espera
+955;male;associate's degree;standard;none;72;57;62;63,67;lista de espera
+956;male;some college;standard;none;84;87;81;84;aprovado
+957;female;master's degree;standard;none;92;100;100;97,33;aprovado
+958;female;high school;standard;none;45;63;59;55,67;reprovado
+959;male;high school;standard;none;75;81;71;75,67;lista de espera
+960;female;some college;standard;none;56;58;64;59,33;reprovado
+961;female;some high school;free/reduced;none;48;54;53;51,67;reprovado
+962;female;associate's degree;standard;none;100;100;100;100;aprovado
+963;female;some high school;free/reduced;completed;65;76;75;72;lista de espera
+964;male;some college;standard;none;72;57;58;62,33;lista de espera
+965;female;some college;standard;none;62;70;72;68;lista de espera
+966;male;some high school;standard;completed;66;68;64;66;lista de espera
+967;male;some college;standard;none;63;63;60;62;lista de espera
+968;female;associate's degree;standard;none;68;76;67;70,33;lista de espera
+969;female;bachelor's degree;standard;none;75;84;80;79,67;lista de espera
+970;female;bachelor's degree;standard;none;89;100;100;96,33;aprovado
+971;male;some high school;standard;completed;78;72;69;73;lista de espera
+972;female;high school;free/reduced;completed;53;50;60;54,33;reprovado
+973;female;some college;free/reduced;none;49;65;61;58,33;reprovado
+974;female;some college;standard;none;54;63;67;61,33;lista de espera
+975;female;some college;standard;completed;64;82;77;74,33;lista de espera
+976;male;some college;free/reduced;completed;60;62;60;60,67;lista de espera
+977;male;associate's degree;standard;none;62;65;58;61,67;lista de espera
+978;male;high school;standard;completed;55;41;48;48;reprovado
+979;female;associate's degree;standard;none;91;95;94;93,33;aprovado
+980;female;high school;free/reduced;none;8;24;23;18,33;reprovado
+981;male;some high school;standard;none;81;78;78;79;lista de espera
+982;male;some high school;standard;completed;79;85;86;83,33;aprovado
+983;female;some college;standard;completed;78;87;91;85,33;aprovado
+984;female;some high school;standard;none;74;75;82;77;lista de espera
+985;male;high school;standard;none;57;51;54;54;reprovado
+986;female;associate's degree;standard;none;40;59;51;50;reprovado
+987;male;some high school;standard;completed;81;75;76;77,33;lista de espera
+988;female;some high school;free/reduced;none;44;45;45;44,67;reprovado
+989;female;some college;free/reduced;completed;67;86;83;78,67;lista de espera
+990;male;high school;free/reduced;completed;86;81;75;80,67;aprovado
+991;female;some high school;standard;completed;65;82;78;75;lista de espera
+992;female;associate's degree;free/reduced;none;55;76;76;69;lista de espera
+993;female;bachelor's degree;free/reduced;none;62;72;74;69,33;lista de espera
+994;male;high school;standard;none;63;63;62;62,67;lista de espera
+995;female;master's degree;standard;completed;88;99;95;94;aprovado
+996;male;high school;free/reduced;none;62;55;55;57,33;reprovado
+997;female;high school;free/reduced;completed;59;71;65;65;lista de espera
+998;female;some college;standard;completed;68;78;77;74,33;lista de espera
+999;female;some college;free/reduced;none;77;86;86;83;aprovado
